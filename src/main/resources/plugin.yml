@@ -1,0 +1,3 @@
+name: RemoveArrow
+version: ${project.version}
+main: pw.riku.removearrow.RemoveArrow
